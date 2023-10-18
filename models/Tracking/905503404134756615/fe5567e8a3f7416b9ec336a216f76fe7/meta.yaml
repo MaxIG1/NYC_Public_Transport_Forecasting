@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\Max_G\OneDrive\IUBH\5_Semester\Model_Engeneering\Public_Transport_Forecasting\models\Tracking/905503404134756615/fe5567e8a3f7416b9ec336a216f76fe7/artifacts
+end_time: 1697629225052
+entry_point_name: ''
+experiment_id: '905503404134756615'
+lifecycle_stage: active
+run_id: fe5567e8a3f7416b9ec336a216f76fe7
+run_name: Random_Forest_2
+run_uuid: fe5567e8a3f7416b9ec336a216f76fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697629221721
+status: 3
+tags: []
+user_id: Max_G
