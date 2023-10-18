@@ -1,0 +1,7 @@
+location,type,AIC
+South_Manhattan,Sarima,5933.267117473827
+South_Manhattan,Sarimax,6207.40140215496
+North_Manhattan,Sarima,5784.296964328152
+North_Manhattan,Sarimax,6070.876223976604
+Brooklyn,Sarimax,4093.6951021010373
+Brooklyn,Sarimax,4264.423946985063
