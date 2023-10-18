@@ -70,8 +70,9 @@ For detailed information, refer to the project's Jupyter notebooks.
 
 
 ## Requirements
-
 Please see the requirements.txt in folder notebooks for creating a virtual environment.
+
+
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
